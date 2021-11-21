@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+body{
+    background-image: url(/Images/Abstract\ Purple\ Glow\ HD\ IPhone\ Wallpaper\ -\ IPhone\ Wallpapers.jfif)
+}
+.photo{
+    border-radius: 500px 0px 1px 500px;
+    width: 721px;
+    height: 721px; 
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+ 
+
+ .umar{
+     letter-spacing: 3px;
+     color: white;
+     font-family: "Dancing Script";
+     border:3px solid transparent ;
+     padding: 10px;
+     position:absolute;
+     left: 500px;
+     top: 0;
+     margin: -5px;
+ }
+
+   #full{
+       background-color: rgb(219, 70, 152);
+     color: white;
+     text-decoration: none;
+     border: 4px solid rgb(219, 70, 152);
+     position: absolute;
+      top: 500px;
+      left: 195px;
+      padding: 1em;
+      border-radius: 50px;
+  
+ } 
+
+ #full:hover{
+     color: black;
+     border: 4px solid white;
+     background-color: white;
+ }
+  .main{
+      position: absolute;
+      top: 230px;
+      left: 200px;
+      font-size: xx-large;
+  }
+
+#main1{
+    font-size: large;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    color: rgb(255, 255, 255);
+}
+
+#hire{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 500px;
+    left:430px;
+    border: 4px solid rgb(219, 70, 152);
+    padding: 1em;
+    border-radius: 200px;
+    background-color: rgb(219, 70, 152);
+}
+
+.hero{
+    position: relative;
+    bottom: 68px;
+}
+
+#hire:hover{
+    color: black;
+    border: 4px solid white;
+    background-color: white;
+}
+
+
